@@ -15,4 +15,4 @@ Logout Function:
 The logout function terminates a user's current session, ensuring that the user is securely logged out. This is essential for maintaining the security and privacy of the user's account. After logging out, users need to re-authenticate to access protected resources. These three functions collectively form the core of user authentication in your Django project, providing a secure and user-friendly environment for account management. Additionally, you might have implemented features like password recovery or profile management to enhance the overall user experience. Always prioritize security measures, such as password hashing and protection against common vulnerabilities, to safeguard user accounts and sensitive information.
 
 
-THE SAMPLE(DEMO) VIDEOS YOU CAN FIND IN THE ISSUES SECTION
+<h2>THE SAMPLE(DEMO) VIDEOS YOU CAN FIND IN THE ISSUES SECTION</h2>
